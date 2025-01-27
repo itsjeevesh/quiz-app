@@ -1,2 +1,2 @@
 # quiz-app
-Build a Quiz App with JavaScript!
+Built a Quiz App using JavaScript!
